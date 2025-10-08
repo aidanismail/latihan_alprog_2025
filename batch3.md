@@ -45,7 +45,7 @@ Kembalikan `k`, yaitu jumlah elemen yang tersisa setelah penghapusan.
 
 - **Contoh 2:**
   - **Input:** `nums = [0, 1, 2, 2, 3, 0, 4, 2]`, `val = 2`
-  - **Output:** `5`, dan `nums` menjadi `[0, 1, 4, 0, 3, _, _, _]`
+  - **Output:** `5`, dan `nums` menjadi `[0, 1, 3, 0, 4, _, _, _]`
 
 #### ⚠️ Batasan (Constraints)
 
